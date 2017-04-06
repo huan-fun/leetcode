@@ -1,2 +1,2 @@
-# leetcode
-Leetcode repo
+# Leetcode
+This repository helps practice leetcode problems.
